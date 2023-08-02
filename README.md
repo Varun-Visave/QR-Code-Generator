@@ -26,3 +26,11 @@ Known bugs or limitations:
 ●If a large amount of data is given, the QR code might get too big to fit on the screen.
 ●The exe file is only compatible with Windows operating systems.
 
+Home Screen :
+
+![image](assets/homewindow.png)
+
+
+Upon Prompting :
+
+![image](assets/onprompt.png)
